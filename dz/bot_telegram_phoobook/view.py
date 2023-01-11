@@ -9,6 +9,4 @@ def read_write():
 def oppen():
     with open('phonesbook.txt', 'r') as f:
         data = f.read().splitlines()
-       # print(f'{data}\n')
-
         return data
