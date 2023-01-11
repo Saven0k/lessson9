@@ -4,7 +4,7 @@ import view
 import emoji
 import data_recording
 import os
-TOKEN = '5959931586:AAENsUPUMc8O-kBWD1i_6puX_xb1RInoFII'
+TOKEN = ''
 
 
 
